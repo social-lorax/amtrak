@@ -1,0 +1,44 @@
+---
+output: html_document
+---
+
+![](https://github.com/social-lorax/amtrak/blob/main/amtrak_logo.png?raw=true)
+
+<div align = "center">
+
+# Ryan & Terri's Amtrak Adventure 
+
+</div>
+
+<br> 
+
+### What are we doing? 
+
+<br> 
+
+<div align = "center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/us_rail.jpg?raw=true" height="400">
+
+</div>
+
+<br> 
+
+The rules:
+
+1. Must use within 120 days of purchase 
+2. Must complete all 10 within 30 days of the first trip 
+
+<br> 
+
+### How are we doing it?
+
+![](https://github.com/social-lorax/amtrak/blob/main/overall_map.png?raw=true)
+
+<br> 
+
+### Follow along!
+
+1. [Lake Shore Limited: Aug 13 - Aug 14](lakeshore.html)
+
+<br> 
