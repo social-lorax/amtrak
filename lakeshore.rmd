@@ -1,0 +1,35 @@
+---
+output: html_document
+---
+
+# Lake Shore Limited 
+
+![]( https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/1.Lake%20Shore%20Limited.png?raw=true)
+
+|**Name**     |Lake Shore Limited |
+|:------------|:------------------|
+|**Start**    |New York           |
+|**End**      |Chicago            |
+|**Distance** |959 Miles          |
+|**Duration** |20 hours           |
+|**Creation** |1897 by the New York Central Railroad |
+
+### August 13
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/luggage.JPG?raw=true" height="400">
+
+The voyage has finally begun! I left my apartment in New York this afternoon around 1:30 to take a train to a train. I think I packed pretty lightly for what will be just over two weeks, but in those bags I have food and drinks for the next three days, a comforter and pillow, books and magazine, and a ton of other little things I found to make this journey more enjoyable. 
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/subway1.JPG?raw=true" height="400">
+
+For this section of the trip (NYC to Seattle) I am riding solo as Terri is already on the West Coast with friends, eagerly awaiting my arrival. As I sat sweating in a subway car, Terri was enjoying a bit more space (though similar temperatures!). 
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/subway2.JPG?raw=true" height="400"> <img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/terri_tree.jpg?raw=true" height="400">
+
+This first *Amtrak* train left from Penn Station in NYC. The new(ish) Moynihan Train Hall is super spacious and bright with many more departure boards. The waiting for the last minute to see which track to go to, and then rushing to get there to find a seat, is the same, it is just prettier now! 
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/penn1.JPG?raw=true" height="400"> <img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/penn3.JPG?raw=true" height="400">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/penn2.JPG?raw=true" height="400">
+
+[Return to main page](index.html)
