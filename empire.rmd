@@ -1,0 +1,23 @@
+---
+output: html_document
+---
+
+# Empire Builder 
+
+![](https://github.com/social-lorax/amtrak/blob/main/2.Empire%20Builder/2.Empire%20Builder.png?raw=true)
+
+|**Name**     |Empire Builder |
+|:------------|:------------------|
+|**Start**    |Chicago           |
+|**End**      |Seattle            |
+|**Distance** |2,206 miles          |
+|**Duration** |46 hours           |
+|**Creation** |1929 by the Great Northern Railway |
+
+### August 14
+
+All I have to say so far is this was very confusing! Unlike the Lake Shore Limited where Boston and New York met in Albany to form one long train to Chicago, the Empire Builder starts as one long train and eventually splits off with half going to Seattle and half going to Portland. There were so many lines and so many entrances to the train that I have no idea where I will end up! (I am at least taking comfort in the fact that other people on this train say they are going to Seattle, even though the conductor initially thought I was going to North Dakota….) I have a seat, I am by the window, and everything else will work itself out!
+
+I’m not sure that I will see much today. Based on this map of estimated day/night location, it will likely be dark before we reach Minnesota. 
+
+![](https://github.com/social-lorax/amtrak/blob/main/day_night.gif?raw=true)
