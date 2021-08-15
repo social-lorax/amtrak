@@ -22,6 +22,6 @@ I’m not sure that I will see much today. Based on this map of estimated day/ni
 
 Update: I was just kidding!!! Look, it's a sunset over the Mississippi River between Wisconsin and Minnesota! (And then look at the day/night map because it is also really cool)
 
-INSERT IFRAME HERE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F22oMAkPzgw" data-external="1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://github.com/social-lorax/amtrak/blob/main/day_night.gif?raw=true)
