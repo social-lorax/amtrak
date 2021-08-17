@@ -1,0 +1,21 @@
+---
+output: html_document
+---
+
+# Coast Starlight 
+
+![](https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/3.Coast%20Starlight.png?raw=true)
+
+|**Name**     |Coast Starlight |
+|:------------|:---------------|
+|**Start**    |Seattle         |
+|**End**      |Emeryville (CA) |
+|**Distance** |671 miles       |
+|**Duration** |22 hours        |
+|**Creation** |Created by Amtrak in 1971 as the first train to run the entire length of the West Coast! |
+
+### August 17
+
+Unfortunately, wildfires destroyed part of this route so the entire segment was canceled. We knew about this in advance, so we planned an extra night in Seattle, got plane tickets to Emeryville, and will spend a night in the Bay Area before hopping on the California Zephyr, the train I am most excited about!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i0J8eBQNzm8" data-external="1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
