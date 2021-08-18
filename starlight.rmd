@@ -19,3 +19,41 @@ output: html_document
 Unfortunately, wildfires destroyed part of this route so the entire segment was canceled. We knew about this in advance, so we planned an extra night in Seattle, got plane tickets to Emeryville, and will spend a night in the Bay Area before hopping on the California Zephyr, the train I am most excited about!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i0J8eBQNzm8" data-external="1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+We started off our extra day in Seattle by heading over to the University of Washington to check out the Burke Museum of Natural History. The exhibits far exceeded our expectations with floors on Native art, biology & ecology, and paleontology & archaeology.
+
+I thought that the Native art exhibit did an incredible job covering topics like colonialism and theft of cultural artifacts, showcasing Native art vs otherizing a people as an exhibit in a museum, and challenging the narrative of Native people and culture as being only historical entities with no place in the present. 
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/burke_art.png?raw=true" height="400">
+
+While any natural history exhibit would be enjoyable for us, the exhibits at Burke were phenomenal! Each display essentially brought to life a concept of biology using taxidermied specimens where a textbook would have just a chart. It felt like I was looking at the neural networks in my brain brought to life! Honestly, we could have spent all day here.
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/burke4.png?raw=true" height="400">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/burke5.JPG?raw=true" height="400">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/burke6.png?raw=true" height="400">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/burke7.JPG?raw=true" height="400">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/burke_fossils.png?raw=true" height="400">
+
+After the museum, we headed down to the ferry to see the skyline from the water and to check out Bainbridge Island. 
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/bainbridge.JPG?raw=true" height="400">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yl-HqO9mCpY" data-external="1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+On the way back we stopped by Pike Place Market. 
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/seattle1.JPG?raw=true" height="400">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/seattle2.JPG?raw=true" height="400">
+
+And then ended the day sipping tall boys on our roof!
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/roof1.JPG?raw=true" height="400">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/roof2.JPG?raw=true" height="400">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/roof3.JPG?raw=true" height="400">
