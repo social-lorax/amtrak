@@ -1,0 +1,52 @@
+---
+output: html_document
+---
+
+# California Zephyr 
+
+![](https://github.com/social-lorax/amtrak/blob/main/4.%20California%20Zephyr/4.California%20Zephyr.png?raw=true)
+
+|**Name**     |**California Zephyr** |
+|:------------|:---------------|
+|**Start**    |Emeryville (CA) |
+|**End**      |Chicago         |
+|**Distance** |2,438 Miles     |
+|**Duration** |51 Hours        |
+|**Creation** |1949 by Chicago, Burlington & Quincy; Denver & Rio Grande Western; and Western Pacific |
+
+### August 19
+
+Our hotel was right down the street from the train station, so we woke up early, got some coffee, and walked over. We knew from last night that the station was small, but it still seems so strange to have a terminal stop of one of the most popular routes be such a tiny station. The station itself is mostly under construction, so everyone waited outside essentially on the tracks. 
+
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/4.%20California%20Zephyr/1_emeryville.JPG?raw=true" height="400">
+
+</div>
+
+Fewer than 100 people boarded the train here (perhaps indicative of why the station is so small) and most of them had sleeper cars (this is **not** indicative at all of the quality of our decision to ride 51 hours in coach), so we were able to get right on and get a seat together. 
+
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/4.%20California%20Zephyr/2_onboard.JPG?raw=true" height="400">
+
+</div>
+
+The Bay is still smokey today so we can't see too much. Based on the day/night map, we should see the rest of California and most of Nevada before nightfall. 
+
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/day_night.gif?raw=true" height="400">
+
+</div>
+
+
+<br> 
+
+<div align="center">
+
+![](https://github.com/social-lorax/amtrak/blob/main/amtrak_logo.png?raw=true)
+
+[Return to main page](index.html)
+
+</div>

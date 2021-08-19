@@ -6,12 +6,12 @@ output: html_document
 
 ![](https://github.com/social-lorax/amtrak/blob/main/3.Coast%20Starlight/3.Coast%20Starlight.png?raw=true)
 
-|**Name**     |Coast Starlight |
+|**Name**     |**Coast Starlight** |
 |:------------|:---------------|
 |**Start**    |Seattle         |
 |**End**      |Emeryville (CA) |
-|**Distance** |671 miles       |
-|**Duration** |22 hours        |
+|**Distance** |671 Miles       |
+|**Duration** |22 Hours        |
 |**Creation** |Created by Amtrak in 1971 as the first train to run the entire length of the West Coast! |
 
 ### August 17
