@@ -36,10 +36,19 @@ The Bay is still smokey today so we can't see too much. Based on the day/night m
 
 <div align="center">
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iVM30v3HuLI" data-external="1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img src="https://github.com/social-lorax/amtrak/blob/main/day_night.gif?raw=true" height="400">
 
 </div>
 
+We slowly made our way from the Bay Area towards Sacramento and then climbed into the Sierra Nevada mountains. People say that it's best to take the Zephyr from Chicago towards California, but I think seeing the mountains, valleys, and streams right away makes the trip immediately enjoyable (especially as the delays start to pile up).
+
+<div align="center">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pHVa3ZoCnH0" data-external="1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 <br> 
 
