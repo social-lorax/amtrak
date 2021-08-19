@@ -76,7 +76,11 @@ After joining with the Boston train and leaving Albany, we hit a thunderstorm an
 
 I bet you’re wondering how one sleeps on Amtrak during a pandemic. Well, first you turn yourself into a crash test dummy or a large bug (not sure which feels more fitting yet)!
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/sleep.JPG?raw=true" height="400">
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/7_sleep.JPG?raw=true" height="400">
+
+</div>
 
 This mask I bought also has Bluetooth headphones built in, so in addition to blocking out light, it also covers my ears and plays soothing soundscapes (naturally I chose “urban rainstorm” to drown out the softer sounds of the train with the louder sounds I am used to). I also brought a pillow and comforter from home since other long distance Amtrakers recommend making your seat feel like as close to your bed as possible. The seats recline more than a typical train seat, and there’s an additional footrest that pops up and continues the recline. While you’re by no means horizontal, you are at least 135 degrees. 
 
@@ -84,37 +88,70 @@ I slept ok for this first segment. There were a lot of late-night stops with a m
 
 I did manage to fall asleep at some point, and woke up to a new seatmate just outside Mayor Pete’s home. I was prepared for this and had a can of espresso ready to go! After that, I “showered” and packed up for Chicago. 
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/shower.JPG?raw=true" height="400">
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/8_shower.JPG?raw=true" height="400">
+
+</div>
 
 After pivoting away from the Hudson, the scenery was … a lot of the same. While beautiful in its own way, complete with harbingers of what’s to come in 2024, it reminded me a lot of my drive home from college in Colorado. Thus, I mostly focused on emails until we crossed a bridge into Chicago. 
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/enter_chicago.JPG?raw=true" height="400">
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/9_enter_chicago.JPG?raw=true" height="400">
+
+</div>
 
 The train arrived at (and the next will leave from) Union Station. The station is much fancier than even Moynihan Hall at Penn Station (it’s more like Grand Central). It really just underscores the tragedy of the decision to tear down the original Penn Station in the 60s. 
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/union.JPG?raw=true" height="400">
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/10_union.JPG?raw=true" height="400">
+
+</div>
 
 Once in Chicago, I first saw as many “touristy” things in the vicinity as I could and then moved on to two special locations. 
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/bean.JPG?raw=true" height="400"> <img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/theaters.jpg?raw=true" height="400">
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/bridge.JPG?raw=true" height="400"> <img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/subway.JPG?raw=true" height="400">
+<div align="center">
 
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/11_chicago.png?raw=true" height="800">
+
+</div>
 
 The first location was the Jane Addams Hull-House. Jane Addams was an activist during the Progressive Era who fought for women’s suffrage, co-founded the ACLU, was the first American woman to be awarded the Nobel Peace Prize, and is considered to be one of the founders of the social work profession. Hull-House, which Addams co-founded with Ellen Gates Starr, served as a settlement house for European immigrants that provided a number of social services. The house also served as a base for political advocacy. 
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/hull_house.JPG?raw=true" height="400">
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/12_hull_house.JPG?raw=true" height="400">
+
+</div>
 
 The second location was the Haymarket Memorial. The inscription on the memorial explains what happened and the aftermath, but in short the event was a tragedy and a major point in the history of labor organizing. I always knew of it as a domestic event, but the presence of plaques from unions all over the world shows just how widespread of an impact it has had.
 
-![](https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/haymarket.jpg?raw=true)
+<div align="center">
+
+![](https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/13_haymarket.jpg?raw=true)
+
+</div>
 
 With just a bit of time to spare, I ran to grab some last minute things at what turned out to be America’s 3,000th Walgreens! 
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/walgreens.JPG?raw=true" height="400">
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/14_walgreens.JPG?raw=true" height="400">
+
+</div>
 
 I then grabbed a vegan oatmeal cream pie (as well as actual lunch, but look at that cookie) and went to catch the next segment of the journey! 
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/cookie.JPG?raw=true" height="400">
+<div align="center">
 
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/15_cookie.JPG?raw=true" height="400">
+
+<br> 
+
+![](https://github.com/social-lorax/amtrak/blob/main/amtrak_logo.png?raw=true)
 
 [Return to main page](index.html)
+
+</div>
