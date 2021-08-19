@@ -11,7 +11,7 @@ output: html_document
 |**Start**    |New York           |
 |**End**      |Chicago            |
 |**Distance** |959 Miles          |
-|**Duration** |20 hours           |
+|**Duration** |20 Hours           |
 |**Creation** |1897 by the New York Central Railroad |
 
 ### August 13
@@ -24,7 +24,7 @@ The voyage has finally begun! I left my apartment in New York this afternoon aro
 
 For this section of the trip (NYC to Seattle) I am riding solo as Terri is already on the West Coast with friends, eagerly awaiting my arrival. As I sat sweating in a subway car, Terri was enjoying a bit more space (though similar temperatures!). 
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/subway2.JPG?raw=true" height="400"> <img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/terri_tree.jpg?raw=true" height="400">
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/ryan_terri.png?raw=true" height="400"> 
 
 This first *Amtrak* train left from Penn Station in NYC. The new(ish) Moynihan Train Hall is super spacious and bright with many more departure boards. The waiting for the last minute to see which track to go to, and then rushing to get there to find a seat, is the same, it is just prettier now! 
 
