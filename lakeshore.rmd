@@ -16,29 +16,45 @@ output: html_document
 
 ### August 13
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/luggage.JPG?raw=true" height="400">
-
 The voyage has finally begun! I left my apartment in New York this afternoon around 1:30 to take a train to a train. I think I packed pretty lightly for what will be just over two weeks, but in those bags I have food and drinks for the next three days, a comforter and pillow, books and magazine, and a ton of other little things I found to make this journey more enjoyable. 
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/subway1.JPG?raw=true" height="400">
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/1_start.png?raw=true" height="400">
+
+</div>
 
 For this section of the trip (NYC to Seattle) I am riding solo as Terri is already on the West Coast with friends, eagerly awaiting my arrival. As I sat sweating in a subway car, Terri was enjoying a bit more space (though similar temperatures!). 
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/ryan_terri.png?raw=true" height="400"> 
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/2_ryan_terri.png?raw=true" height="400"> 
+
+</div>
 
 This first *Amtrak* train left from Penn Station in NYC. The new(ish) Moynihan Train Hall is super spacious and bright with many more departure boards. The waiting for the last minute to see which track to go to, and then rushing to get there to find a seat, is the same, it is just prettier now! 
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/penn1.JPG?raw=true" height="400"> <img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/penn3.JPG?raw=true" height="400">
+<div align="center">
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/penn2.JPG?raw=true" height="400">
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/3_penn.png?raw=true" height="800"> 
+
+</div>
 
 I must admit that I forgot how beautiful upstate New York is. Initially, I was thinking that this segment of the trip was just a necessary step to get to Chicago for the *real* trip to begin. If you’ve ever taken Metro North, however, you know that these tracks are so close to the Hudson River it almost feels like you’re on a boat. (I am sitting on the opposite side of the train from the river as I was planning for potential lake views, though it looks like it might be dark when we pass through there. Alas, I was unable to take a picture of the Hudson and am instead inserting this much better, out-of-body photo to capture the essence!) 
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/hudson.jpg?raw=true" height="400"> 
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/4_hudson.jpg?raw=true" height="400"> 
+
+</div>
 
 Things outside my side of the train were certainly still beautiful. We passed through a number of quaint riverfront towns, over bridges spanning tributaries of the Hudson, and alongside forests and mountains.
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/route1.JPG?raw=true" height="400"> <img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/route2.JPG?raw=true" height="400"> <img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/route3.JPG?raw=true" height="400">
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/5_window.png?raw=true" height="800"> 
+
+</div>
 
 Apparently long routes on Amtrak have built-in smoke breaks where we stop at a station for around 45 minutes for smokers to smoke and everyone else to get fresh air (aka take off our masks) and check out the station. This is a welcome surprise as we were a bit worried about the food situation on some of our longer segments. At the beginning of the pandemic Amtrak completed closed their dining cars and instead only offered options to take back to your seat (e.g., pizza, burgers, etc.). The dining cars with traditional dining have since re-opened, but they are currently exclusively for people who have booked rooms (booking a room is an all-inclusive package that includes three meals a day). While we were always planning on buying a to-go dinner before boarding, the prospect of cheese pizza for every subsequent dinner was not something I was looking forward to. With these stops, however, we now may be able to buy an additional to-go dinner after eating the first one. That and we don’t need to bring a gallon of water on with us as we can refill smaller bottles at each stop. 
 
@@ -48,7 +64,11 @@ Another surprise was hitching on to the train from Boston. The Lake Shore Limite
 
 After joining with the Boston train and leaving Albany, we hit a thunderstorm and the sun set shortly after leaving me with a pitch-black window. I turned my attention to *Amtrak: The History and Politics of a National Railroad* to learn more about this system I will be on for the foreseeable future! 
 
-<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/end.JPG?raw=true" height="400">
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/1.Lake%20Shore%20Limited/6_end.JPG?raw=true" height="400">
+
+</div>
 
 <br>
 
