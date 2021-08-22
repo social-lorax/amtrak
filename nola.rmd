@@ -1,0 +1,35 @@
+---
+output: html_document
+---
+
+# City of New Orleans
+
+![](https://github.com/social-lorax/amtrak/blob/main/5.City%20of%20New%20Orleans/5.City%20of%20New%20Orleans.png?raw=true)
+
+|**Name**     |**City of New Orleans** |
+|:------------|:---------------|
+|**Start**    |Chicago         |
+|**End**      |New Orleans     |
+|**Distance** |934 Miles       |
+|**Duration** |19 Hours        |
+|**Creation** |1947 by Illinois Central Railroad |
+
+### August 21
+
+It feels like a completely new journey having showered and rested for a bit in Chicago! We were some of the first people on the train in coach, so we're trying out a new location at the front of the car: nobody is sitting in front of us to lean back on us, we think there is more room to stretch out our legs, and we can put our feet against the wall to be more horitzontal. (Granted there are no tray tables or under-seat storage, but it could be a winner still.)
+
+We took off at 8pm, so it was already dark out. The day/night map does not include this route, but it looks like it will be dark through Illinois and Kentucky, but we should see Memphis when we wake up. 
+
+As a side note, this route inspired the song *City of New Orleans* by Steve Goodman (though Terri insisted I include the Arlo Guthrie version). We recommend hitting play while reading the later updates.
+
+<iframe src="https://open.spotify.com/embed/track/0P6TTXbSLGrSoTNMz5kvB7" data-external="1" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<br> 
+
+<div align="center">
+
+![](https://github.com/social-lorax/amtrak/blob/main/amtrak_logo.png?raw=true)
+
+[Return to main page](index.html)
+
+</div>
