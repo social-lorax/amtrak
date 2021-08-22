@@ -18,7 +18,7 @@ output: html_document
 
 It feels like a completely new journey having showered and rested for a bit in Chicago! We were some of the first people on the train in coach, so we're trying out a new location at the front of the car: nobody is sitting in front of us to lean back on us, we think there is more room to stretch out our legs, and we can put our feet against the wall to be more horitzontal. (Granted there are no tray tables or under-seat storage, but it could be a winner still.)
 
-We took off at 8pm, so it was already dark out. The day/night map does not include this route, but it looks like it will be dark through Illinois and Kentucky, but we should see Memphis when we wake up. 
+We took off at 8pm, so it was already dark out. The day/night map does not include this route, but it looks like it will be dark through Illinois and Kentucky and we should see Memphis when we wake up. 
 
 As a side note, this route inspired the song *City of New Orleans* by Steve Goodman (though Terri insisted I include the Arlo Guthrie version). We recommend hitting play while reading the later updates.
 
