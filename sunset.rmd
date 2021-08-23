@@ -1,0 +1,37 @@
+---
+output: html_document
+---
+
+# Sunset Limited
+
+![](https://github.com/social-lorax/amtrak/blob/main/6.%20Sunset%20Limited/6.Sunset%20Limited.png?raw=true)
+
+|**Name**     |**Sunset Limited** |
+|:------------|:---------------|
+|**Start**    |New Orleans     |
+|**End**      |Los Angeles     |
+|**Distance** |1,995 Miles     |
+|**Duration** |46 Hours        |
+|**Creation** |1894 by Southern Pacific Railroad, the oldest continuously operating named train in the US! |
+
+### August 23
+
+Off we go on the mirror image of the Empire Builder traveling along the southern border! Terri issued an ultimatum before setting off: either we upgrade to a roomette for this segment of the trip or she jumps ship and spends the rest of her days on Bourbon Street. So, for this segment we have a little section of the train to oursevles with a closing door (read: no masks!), completely horizontal beds, a shared shower, and access to complimentary meals in the dining car (so much for our coach class revolt). 
+
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/6.%20Sunset%20Limited/1_roomette.png?raw=true" height="400">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/6.%20Sunset%20Limited/2_menu.png?raw=true" height="400">
+
+</div>
+
+<br> 
+
+<div align="center">
+
+![](https://github.com/social-lorax/amtrak/blob/main/amtrak_logo.png?raw=true)
+
+[Return to main page](index.html)
+
+</div>
