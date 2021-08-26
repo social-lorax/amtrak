@@ -1,0 +1,69 @@
+---
+output: html_document
+---
+
+# Southwest Chief
+
+![](https://github.com/social-lorax/amtrak/blob/main/7.Southwest%20Chief/7.Southwest%20Chief.png?raw=true)
+
+|**Name**     |**Southwest Chief** |
+|:------------|:---------------|
+|**Start**    |Los Angeles     |
+|**End**      |Chicago         |
+|**Distance** |2,265 Miles     |
+|**Duration** |43 Hours        |
+|**Creation** |1936 by Atchison, Topeka and Santa Fe Railway, known as "The Train of the Stars"! |
+
+### August 25
+
+We are off on our last multi-night segment of the trip! (Don't worry, we still have an overnight from Chicago to DC.) The route starts out along the Los Angeles River. While this is certainly not the image I have in my mind of the archetypal "river", it nevertheless looked familiar. I checked online and it is, in fact, the location of the Thunder Road race at the end of Grease!
+
+<div align="center">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U-7z9F1BfpU" data-external="1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/7.Southwest%20Chief/1_grease.png?raw=true" height="400">
+
+</div>
+
+We then passed through San Bernardino before nightfall. 
+
+<div align="center">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oPvrsCw5IrU" data-external="1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+Though we no longer have a roomette with complimentary meals, the mealtime views are still breathtaking. 
+
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/7.Southwest%20Chief/2_dinner.JPG?raw=true" height="400">
+
+</div>
+
+Apparently we also rode passed the South Fire, but we did not see anything and Amtrak does not seem to be impacted. 
+
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/7.Southwest%20Chief/3_fire.JPG?raw=true" height="400">
+
+</div>
+ 
+There are some beautiful sights to be seen on this trip, but many are set for early in the morning tomorrow. Digging up our trusty old day/night map, we *should* be able to see bits of Arizona with daylight. Fingers crossed! 
+
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/day_night.gif?raw=true" height="400">
+
+</div>
+
+<br> 
+
+<div align="center">
+
+![](https://github.com/social-lorax/amtrak/blob/main/amtrak_logo.png?raw=true)
+
+[Return to main page](index.html)
+
+</div>
