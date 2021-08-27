@@ -1,0 +1,27 @@
+---
+output: html_document
+---
+
+# Capitol Limited
+
+![](https://github.com/social-lorax/amtrak/blob/main/8.Capitol%20Limited/8.Capitol%20Limited.png?raw=true)
+
+|**Name**     |**Capitol Limited** |
+|:------------|:---------------|
+|**Start**    |Chicago         |
+|**End**      |Washington, D.C.|
+|**Distance** |781 Miles       |
+|**Duration** |17 Hours        |
+|**Creation** |1923 by Baltimore and Ohio Railroad |
+
+### August 25
+
+<br> 
+
+<div align="center">
+
+![](https://github.com/social-lorax/amtrak/blob/main/amtrak_logo.png?raw=true)
+
+[Return to main page](index.html)
+
+</div>

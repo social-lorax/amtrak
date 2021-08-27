@@ -53,4 +53,159 @@ The rules:
 
 7. [Southwest Chief: Aug 25 - Aug 27](southwest.html) (Updated 8/27 at 9:00 am Eastern)
 
+8. [Capitol Limited: Aug 27 - Aug 28](capitol.html)
+
 <br> 
+
+### What is Amtrak?
+
+In short, Amtrak, which is really the National Railroad Passenger Corporation doing business as Amtrak, is a quasi-public corporation that operates as a for-profit organization with government funding. The story of how we got Amtrak is fascinating and combines a wide range of US history.
+
+Note: this is all based off of a series written by Jeff Davis of Eno Center for Transportation called “Amtrak at 50”; *Amtrak: The History and Politics of a National Railroad* by David Nice; and Wikipedia.
+
+<br>
+
+***Private passenger railway travel***
+
+Trains used to be one of the best ways to move people and cargo around the country. 
+
+![]( https://github.com/social-lorax/amtrak/blob/main/1_early_tranist.png?raw=true) 
+
+The mainstreaming of personal car and airline travel out-competed trains since cars allowed people to go exactly where they wanted from door to door and planes offered significantly faster travel (at least over longer distances). Additionally, the federal government has continued to provide subsidies for highway development and airports while rail was largely left to fend for itself after the initial rail development in the 1800s.
+
+![]( https://github.com/social-lorax/amtrak/blob/main/2_compete.png?raw=true)
+
+Internally, the railroads that ran passenger lines were the same that operated the freight lines. Knowing anything about how people can be, it’s not surprising that it is easier and cheaper to transport freight than it is to transport demanding customers. Thus, railroad management and operations tended to view rail as freight that happened to offer passenger travel. As a result, little was invested in upgrading passenger cars or marketing to passengers. Without a nationalized system, marketing was also a challenge since a single rail company could not necessarily offer a route from point A to point B without a passenger needing to change rail companies. 
+
+Finally, what many consider to be the death knell for private passenger train travel, in the 1960s the US Post Office diverted almost all mail from trains to trucks and planes. Pre-Amazon, mail was relatively small cargo that could fit on passenger trains and subsidize the trip. Without funding from mail, passenger lines only received revenue from passenger tickets. 
+
+<br>
+
+***Government intervention to save passenger railway travel***
+
+Railroads were always governed by the federal Interstate Commerce Commission (ICC) and state commissions. Apparently, it was illegal for railroads to abandon passenger service without permission from one of these commissions, regardless of how unprofitable a line was. In 1958, the Transportation Act allowed the ICC to have ultimate jurisdiction over state commissions, thereby streamlining the process for railroads to apply to abandon passenger lines. A few months into this new system the ICC released the Hosmer Report: 
+
+> The passenger deficit is not something which can be conjured away by statistical legerdemain. It is real and serious. Unless a good start toward reducing it can be promptly made the future welfare of the railroads will be gravely endangered. In fact there is here a disturbing overtone due to an implication that the passenger deficit may be a symptom of more deep-seated infirmities for which some remedy must be found if the railroads are to survive. 
+
+Later, in 1961, the Senate Commerce Committee produced the Doyle Report calling for a market analysis of passenger rail: “If the results of such a [market analysis] indicate profitable operations based on conservative traffic and financial forecasts, a national passenger service corporation should be formed which would have complete control of marketing and producing the service.” The Senate Commerce Committee then held hearings on passenger lines headed by subcommittee chairman Vance Hartke (D-IN), who opened by saying “Congress should not let the passenger train disappear from the scene by default…. There seems to be a market, there seems to be an interest, the question is what should be done and what can be done by the Congress.” Hartke introduced a bill with unlimited federal subsidies as the solution while another group introduced a bill requiring DOT to purchase all outstanding rail stock, upgrade and maintaining it, and lease it back to the rail companies.
+
+On the executive side, the federal Department of Transportation (DOT) of the Johnson Administration was looking at plans for passenger rail in the northeast. A member of DOT’s Federal Railroad Administration stated: 
+
+> Everyone, including the White House, understood that passenger trains made sense in the Northeast. Some believed that there were other corridors that might work. Almost no one had any belief that long-haul passenger trains were needed, or, indeed, would ever be needed. But again, our overriding concern was to find a solution that removed the passenger burden from the back of the Penn Central and the other freight railroads. The collapse of passenger railroading was acceptable; the collapse of freight railroading was not. 
+
+In Senate hearings, the Federal Railroad Administrator, Reginald Whitman, testified about options DOT was considering. One option was “a private corporation [called “Railpax”] to provide rail passenger service in selected high-density routes throughout the Nation for at least a 3-year period.” Under the plan, railroads would pay 150% of their avoided passenger losses to Railpax to take over passenger lines at no cost to the government. (Whitman later noted that this plan was essentially making railroads pay for losses the government was forcing them to maintain by requiring permission to cancel lines.) Routes that Railpax determined to be unprofitable would then be offered to the states to subsidize or take over or they would simply be abandoned. 
+
+Before anything was acted on by the Senate, Nixon became president and appointed John Volpe (former Federal Highway Administrator) as Secretary of Transportation. Volpe preferred the Railpax option to the others presented by the Johnson Administration. Others in the Nixon Administration were not supportive of the plan because they believed it would cost significantly more than suggested by DOT and they noted that being responsible for dropping rail lines across the country would be politically unpopular. The budget office went as far as recommending simply letting all passenger rail be discontinued. 
+
+The Senate Commerce Committee picked up the pace on passenger rail, with Senator Hartke introducing a new bill consolidating all of the former democratic options. Senator Winston Prouty (R-VT), the minority counterpart to Senator Hartke on the Commerce Committee, introduced the DOT Railpax plan as an alternative. (It is not clear exactly how this happened, though Nixon himself may have authorized the introduction of the plan.) Though the Railpax plan failed in Committee to Hartke’s bill, republican senators refused to let the Hartke bill go forward and democratic senators knew Nixon would veto it anyway. Instead, Senate Majority Leader Mike Mansfield (D-MT), after much behind-the-scenes negotiating, introduced an amendment that replaced the text of the Hartke bill with an amended Railpax bill. The senate then passed this bill by a vote of 78 to 3.
+
+While the House was holding hearings on passenger rail, Penn Central (the largest railroad and the 6th largest corporation at the time) filed for bankruptcy (the largest corporate bankruptcy until Enron). Shortly thereafter, the House passed an amended version of the Senate bill by voice vote. That same day the Senate passed the House bill by unanimous consent. 
+
+Nixon’s policy advisors remained hesitant and advised him to hold off on signing the bill. However, an economic policy memo stated the following: 
+
+> If this bill were being now presented to us as a departmental proposal, I would oppose it on economic grounds…. Now, however, the bill comes to us for signature or veto having received strong and continuing Administration support through the statements of Secretary Volpe. I do not believe that it is sound administrative practice or politically credible for the Administration, in the absence of overwhelming new evidence, now to reverse its principal spokesman for transportation policy. To do so on the eve of a Congressional election would seem particularly undesirable. Therefore, unless the President is prepared to risk Secretary Volpe’s resignation, I would recommend that he sign the Railpax bill.
+
+Nixon silently signed the bill without a ceremony or official statement. 
+
+<br>
+
+***Setting up Amtrak***
+
+The Rail Passenger Service Act of 1970 (Public Law 91-518) created the National Railroad Passenger Corporation (the actual entity that does business as Amtrak) as a quasi-public corporation that operates as a for-profit organization with government funding. After becoming law in October of 1970, service was to begin on May 1, 1971. Amtrak would not own the railways, and would instead just act as a service provider. The Secretary of Transportation would determine “a basic system” of routes from the existing passenger railway system. 
+
+Secretary John Volpe’s initial plan was to create “corridor” and “long haul” routes. Corridors, which are defined as connecting two cities less than 300 miles apart with at least one million residents each, were selected if the price was competitive with busses and the time was competitive with airplanes. Long haul routes were selected if the ratio of passenger miles to train miles exceeded 100 (with the additional rule that all regions of the country must be connected). 
+
+![]( https://github.com/social-lorax/amtrak/blob/main/3_volpe_map.png?raw=true)
+
+Others in Nixon’s administration were concerned with this approach and offered alternatives. Nixon selected an option created by the Office of Management and Budget that included only lines which were projected to be either profitable or lose no more than $1 million annually. 
+
+![]( https://github.com/social-lorax/amtrak/blob/main/4_nixon_map.png?raw=true)
+
+After some reconciliation, Secretary Volpe put out the “Preliminary Report on Basic National Rail Passenger System” with the official DOT basic system. 
+
+![]( https://github.com/social-lorax/amtrak/blob/main/5_dot_map.png?raw=true)
+
+This proposal was then subject to public comment and ICC review. After frontpage coverage, the public, particularly in the west and south, were not happy with the limited service options in the revised plan. Additionally, some believed that cross-country trains would never work and were upset that there were any transcontinental lines whereas other believed a national network was critical and were upset that there were not enough long haul routes. The ICC also recommendation addressed some of these service loss concerns. 
+
+![]( https://github.com/social-lorax/amtrak/blob/main/6_icc_map.jpg?raw=true)
+
+Secretary Volpe incorporated many of the ICC recommendations into the final basic service map. 
+
+![]( https://github.com/social-lorax/amtrak/blob/main/7_final_map.png?raw=true)
+
+From this basic map of endpoints, it was up to a Board of Incorporators, appointed by the president with the advice and consent of the Senate, to determine which existing lines to use to form the actual routes (called “service packages”). Nixon chose to appoint eight members: the head of the Army’s railway division during WWII, a former Commissioner of the New York MTA, a representative from the railroad union, an airline executive, a member from DOT, a former US representative, and lawyers. The Board then hired McKinsey & Co. to support the development of the project.
+
+McKinsey proposed the following criteria for developing service packages:
+
+1. Evaluated endpoint routes in the Basic System 
+    a. Size of passenger market 
+    b. Current ridership 
+    c. Physical characteristics of route and track 
+2. Eliminate unattractive routes 
+    a. No current service 
+    b. Low market potential 
+    c. Low current ridership
+    d. Poor track conditions 
+    e. Longer or slower routes 
+3. Compare remaining routes 
+    a. Size of passenger market 
+    b. Current ridership 
+    c. Physical characteristics of route and track 
+    d. Potential profitability 
+4. Recommend a single route
+
+These criteria were used to evaluate options between each endpoint: 
+
+![]( https://github.com/social-lorax/amtrak/blob/main/8_route_analysis.png?raw=true)
+
+Much of what McKinsey suggested as “recommended” was ultimately voted on to become the final set of service packages. 
+
+![]( https://github.com/social-lorax/amtrak/blob/main/9_final_packages.png?raw=true)
+
+On March 30, one month before service was set to start, the Board met with brand consultancy firm Lippincott and Marguiles. L&M previously designed the Campbell’s Soup can, the Betty Crocker spoon, the Citgo red triangle, and Coke curved ribbon. The Border unanimously approved the recommended logo and, choosing between TRAK, AMTRAK, and SPAN, ultimately settled on AMTRAK. 
+
+<br>
+
+***Joining Amtrak – ditching passengers***
+
+Passenger rail transport was completely changed with the creation on Amtrak: 
+
+1. Any intercity, passenger railroad service was eligible to contract with the National Railroad Passenger Corporation. Participating railroads:  
+    a. Paid an amount, in cash or rolling stock, based on their recent passenger losses 
+    b. Received common stock in the National Railroad Passenger Corporation
+    c. Were freed of the obligation to operate passenger service, with Amtrak taking over service on the final set of service packages 
+2. Railroads that chose not to participate were required to continue offering passenger service under the old ICC process (with a moratorium on discontinuances until 1975).
+
+At the time of creation, there were 26 eligible railroads; 20 opted in. 
+
+*	Atchison, Topeka and Santa Fe Railway (**Southwest Chief**)
+*	Baltimore and Ohio Railroad (**Capitol Limited**) 
+*	Burlington Northern Railroad (**Empire Builder**)
+*	Central of Georgia Railway 
+*	Chesapeake and Ohio Railway
+*	Chicago, Milwaukee, St. Paul and Pacific Railroad
+*	Chicago and North Western Railway 
+*	Delaware and Hudson Railway 
+*	Grand Trunk Western Railroad 
+*	Gulf, Mobile and Ohio Railroad
+*	Illinois Central Railroad (**City of New Orleans**) 
+*	Louisville and Nashville Railroad
+*	Missouri Pacific Railroad
+*	Norfolk and Western Railway 
+*	Northwestern Pacific Railroad 
+*	Penn Central Transportation (**Lake Shore Limited**, **Northeast Regional**)
+*	Richmond, Fredericksburg and Potomac Railroad
+*	Seaboard Coast Line Railroad
+*	Southern Pacific Railroad (**Coast Starlight**, **Sunset Limited**)
+*	Union Pacific Railroad 
+
+The 6 that chose not to join: 
+
+*	Chicago, Rock Island and Pacific Railroad, which discontinued intercity passenger trains in 1978
+*	Chicago South Shore and South Bend Railroad, which was taken over by the public Northern Indiana Commuter Transportation District in 1989 
+*	Denver and Rio Grande Western Railroad, which later joined Amtrak in 1983 (**California Zephyr**)
+*	Georgia Railroad, which discontinued intercity passenger trains in 1983  
+*	Reading Company, which discontinued intercity passenger trains in 1982 
+*	Southern Railway, which later joined Amtrak in 1979
+
+<br>
