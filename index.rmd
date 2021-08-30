@@ -41,8 +41,11 @@ The rules:
 
 (*Click the image to see the blog entries for the line*)
 
-[![](https://github.com/social-lorax/amtrak/blob/main/posters/lakeshore.jpg?raw=true)](lakeshore.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/empire.jpg?raw=true)](empire.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/starlight.jpg?raw=true)](starlight.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/zephyr.jpg?raw=true)](zephyr.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/nola.jpg?raw=true)](nola.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/sunset.jpg?raw=true)](sunset.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/southwest.jpg?raw=true)](southwest.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/capitol.jpg?raw=true)](capitol.html)
-[![](https://github.com/social-lorax/amtrak/blob/main/posters/nec.jpg?raw=true)](northeast.html)
+[<img src="https://github.com/social-lorax/amtrak/blob/main/posters/lakeshore.jpg?raw=true" height="300">](lakeshore.html) [<img src="https://github.com/social-lorax/amtrak/blob/main/posters/empire.jpg?raw=true" height="300">](empire.html) [<img src="https://github.com/social-lorax/amtrak/blob/main/posters/starlight.jpg?raw=true" height="300">](starlight.html) 
+
+[<img src="https://github.com/social-lorax/amtrak/blob/main/posters/zephyr.jpg?raw=true" height="300">](zephyr.html) [<img src="https://github.com/social-lorax/amtrak/blob/main/posters/nola.jpg?raw=true" height="300">](nola.html) [<img src="https://github.com/social-lorax/amtrak/blob/main/posters/sunset.jpg?raw=true" height="300">](sunset.html)
+
+[<img src="https://github.com/social-lorax/amtrak/blob/main/posters/southwest.jpg?raw=true" height="300">](southwest.html) [<img src="https://github.com/social-lorax/amtrak/blob/main/posters/capitol.jpg?raw=true" height="300">](capitol.html) [<img src="https://github.com/social-lorax/amtrak/blob/main/posters/nec.jpg?raw=true" height="300">](northeast.html)
 
 <br> 
 
