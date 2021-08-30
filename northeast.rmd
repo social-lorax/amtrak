@@ -1,0 +1,138 @@
+---
+output: html_document
+---
+
+# Northeast Regional
+
+![](https://github.com/social-lorax/amtrak/blob/main/9.Northeast%20Regional/9.Northeast%20Regional.png?raw=true)
+
+|**Name**     |**North East Regional** |
+|:------------|:---------------|
+|**Start**    |Washington, D.C.|
+|**End**      |New York City   |
+|**Distance** |225 Miles       |
+|**Duration** |3 Hours         |
+|**Creation** |In 1929 the Pennsylvania Railroad introduced the Senator, which made these same stops |
+
+### August 29
+
+Day 16! We parted ways this morning with Terri taking the Carolina down to North Carolina and me taking the Northeast Regional up to New York City. Both of our trains were the “normal” Amtrak trains with less leg room and no folding into a “bed”. 
+
+For most of the country (and most of this trip) we were riding in Amtrak cars that were leasing space on private tracks. Trains on the Northeast Corridor, stretching from Washington D.C. to Boston, ride on tracks primarily owned and maintained by Amtrak. The original tracks were built by several railroads between 1830 and 1917, but operation consolidated under the Pennsylvania Railroad (Washington to New York) and the New York, New Haven and Hartford Railroad (New York to Boston); both of which later consolidated into Penn Central. Electrification on the corridor began in 1905 and was continuously expanded until the 1990s (other trains run on diesel fuel). The Corridor also runs the only high-speed rail in the US. 
+
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/9.Northeast%20Regional/1_nec.png?raw=true" height="400">
+
+</div> 
+
+On this trip I stop at Penn Station Baltimore, Penn Station Philadelphia, Penn Station Newark, and Penn Station New York. This always fascinated/confused/frustrated me on this line because (1) only one of these stations is actually ***in*** Pennsylvania and (2) it is very confusing to make multiple stops at “Penn Station”. However, now that I know that Penn Central ran the major lines through this area, it makes more sense: whereas today we look for the Amtrak station when taking a train somewhere, for a large part of history people would look for the Penn Central station to take the Penn Central train. Similarly, “Union Station” used to refer to a station where multiple railroads converged. Today it is all Amtrak, but previously you would need to take the train to a Union Station to switch lines to travel beyond the area covered by your local railroad. Overall we visited Chicago Union, Los Angeles Union, St. Paul – Minneapolis Union, and Washington Union. 
+
+I have taken the train along this corridor for what feels like my whole life. It always felt like just a more convenient option than flying and never anything special. This time taking it, I want to view it with the same attitude as I had with the other lines. For starters, it is amazing how many cities we cities we pass through from Washington D.C. to New York: 
+
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/9.Northeast%20Regional/2_cities.png?raw=true" height="1000">
+
+</div> 
+
+While this area does have a lot of really urbanized, we also pass through some beautiful natural landscapes, like rivers! The first water I noticed was crossing the Chesapeake Bay. The Bay is the mouth of many rivers, but as far as I can tell only the Potomac serves as a border; the Susquehanna doesn’t serve as a border, but it does extend into upstate New York! 
+
+<div align="center">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/twawh2rJ1lU" data-external="1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/9.Northeast%20Regional/3_chesapeake.png?raw=true" height="400">
+
+</div> 
+
+In Wilmington we reached the Delaware River, which serves as the border between Delaware and New Jersey and Pennsylvania and New Jersey. We followed the river, without crossing it, up to Philadelphia and then to the PA/NJ border where we crossed it into Trenton. 
+
+<div align="center">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wSXpm5j5X1A" data-external="1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div> 
+
+Next, we crossed the Raritan River near Edison, NJ. While the river is not a border, it feeds into the Raritan Bay, which is the body of water at the southern end of Staten Island. (Full disclosure: this is a video of the Schuylkill River in Philadelphie. But, I don't know anything about that river, I missed filming the Raritan River, and aside from the Philly skyline I am sure it is similar...)
+
+<div align="center">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S5FV257MHT4" data-external="1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div> 
+
+Finally, we crossed the Hudson River, which serves as the border between New Jersey and New York. Unlike the other major river crossing, we cross the Hudson in an underwater tunnel: the infamous Hudson Tunnel tossed back and forth by presidential administrations. 
+
+For those following along at home, I found this cool map showing all of the state borders defined by rivers! 
+
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/9.Northeast%20Regional/4_rivers.png?raw=true" height="400">
+
+</div> 
+
+From Penn Station (New York) I walked to Herald Square to catch the Q train all the way through Brooklyn (because it is the weekend and the B isn’t running). 
+
+This concludes the logistic portion of the blog. If you want to avoid the conclusion where I wax poetic about what this trip means to me, I thank you for following us on this incredible journey! 
+
+<br> 
+
+### The End
+
+I decided to go on this trip, in all honesty, because of the deal! I got a Facebook ad for a $299 trip around the country, sent it around as a joke, and then realized it was something I *could* do during the last bit of my work-from-home period (we start back in the office this week or next). I asked around to see if anyone was interested and was shocked when my mom said that she wanted to spend two weeks sleeping in a chair in coach (little did we know then…). The opportunity to see the whole country and spend time with my mom one-on-one was something I couldn’t pass up. 
+
+With those primary reasons for going on this trip out of the way, I also wanted to do something to mark my turning 30 during the pandemic. I know the readership of this blog is bimodal with a cluster around 30, perhaps feeling similarly, and another cluster around 30...+a bit... following my mom who view 30 as still being a kid. All I can say is that this was a tough birthday for me and it took place in an already tough year. I knew this would be a once-in-a-lifetime adventure and I knew that so much time on the train just watching the country pass by would give me plenty of time to think. 
+
+> ...I had sneaked into San Francisco as I say, coming 3,000 miles from my home in Long Island (Northport) in a pleasant roomette on the California Zephyr train watching American roll by outside my private picture window, really happy for the first time in three years, staying in the roomette all three days and three nights with my instant coffee and sandwiches... (Jack Kerouac, *Big Sur*, 1962)
+
+My real epiphany moment came when we were watching the sunset over Colorado’s Front Range. I went to college in Colorado (over a decade ago at this point), so it is a place that brings up a lot of nostalgia. (Worse was this summer when I drove through New England to my childhood home, high school, and places we vacationed as a family growing up). The scenery was objectively beautiful, even without my emotional connection to the place. I was listening to music and Hero by Family of the Year came on: 
+
+<iframe src="https://open.spotify.com/embed/track/6GRDI9suQHikFP6euIXnpq" data-external="1"  width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+This is one of my longtime favorites, and another nostalgic trigger based on when I first heard it. The lyrics hit me every time I hear them: 
+
+> Let me go  
+> I don’t want to be your hero  
+> I don’t wanna be a big man  
+> I just wanna fight with everyone else  
+>   
+> You’re a masquerade  
+> I don’t wanna be a part of your parade  
+> Everyone deserves a chance to  
+> Walk with everyone else  
+>   
+> …  
+>  
+> And we can whisper things  
+> Secrets from our American dreams  
+> Baby needs some protection  
+> But I’m a kid like everyone else  
+>   
+> So let me go  
+> I don’t want to be your hero  
+> I don’t wanna be a big man  
+> I just wanna fight with everyone else  
+
+Listening to the song (maybe on repeat), I began to feel as though my past self was singing it to me. [*I warned you! Turn back now or get sucked into my emotional processing.*] Having reached the milestone of turning 30 and feeling forced to take stock of my life, I find myself going back to the person I was at 16 or 18 or 22 or 25 and wondering whether that person would be happy with where I am and the choices I have made. My life looks completely unrecognizable to the image I had in my head as a teenager leaving Massachusetts to study conservation biology out West. Sometimes the difference between my life and what I imagined it would be is very unsettling and makes me question if I am doing the right thing. 
+
+Imagining my past self/selves singing this song to "let them go" and stop viewing them as "heroes" made me think about how I should stop measuring my life based on what these idealized versions of myself thought and instead focus on whether I am happy now and doing the things I have come to love. I don’t know that “yes” is definitely the answer (it was only 2 weeks afterall, I feel like I need more time for that one!), and I would be lying if I said it was easy or didn’t make me a little sad to let go of these past versions of myself and accept that I have grown into a new person, but I think this realization will significantly help in my self-evaluation.
+
+Overall, I think I am coming to terms with having lived for three decades, I circled and criss-crossed the entire country, and I got to spend unmatched time with my mom. 
+
+<div align="center">
+
+<img src="https://github.com/social-lorax/amtrak/blob/main/9.Northeast%20Regional/5_me.png?raw=true" height="400">
+
+</div> 
+
+<br> 
+
+<div align="center">
+
+![](https://github.com/social-lorax/amtrak/blob/main/amtrak_logo.png?raw=true)
+
+[Return to main page](index.html)
+
+</div>
+
