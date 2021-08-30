@@ -39,21 +39,20 @@ The rules:
 
 ### Follow along!
 
-1. [Lake Shore Limited: Aug 13 - Aug 14](lakeshore.html) (Updated 8/14 at 9:30 pm Eastern)
+(*Click the image to see the blog entries for the line*)
 
-2. [Empire Builder: Aug 14 - Aug 16](empire.html) (Updated 8/17 at 1:30 pm Eastern)
+[![](https://github.com/social-lorax/amtrak/blob/main/posters/lakeshore.jpg?raw=true)](lakeshore.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/empire.jpg?raw=true)](empire.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/starlight.jpg?raw=true)](starlight.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/zephyr.jpg?raw=true)](zephyr.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/nola.jpg?raw=true)](nola.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/sunset.jpg?raw=true)](sunset.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/southwest.jpg?raw=true)](southwest.html) [![](https://github.com/social-lorax/amtrak/blob/main/posters/capitol.jpg?raw=true)](capitol.html)
+[![](https://github.com/social-lorax/amtrak/blob/main/posters/nec.jpg?raw=true)](northeast.html)
 
-3. [Coast Starlight: Aug 17 - Aug 18](starlight.html) (Updated 8/19 at 1:30 am Eastern)
+<br> 
 
-4. [California Zephyr: Aug 19 - Aug 21](zephyr.html) (Updated 8/21 at 9:15 pm Eastern)
+### Totals
 
-5. [City of New Orleans: Aug 21 - Aug 22](nola.html) (Updated 8/23 at 1:30 am Eastern)
+* 11,803 Miles
+* 245 hours
+* 30 states + Washington D.C.
 
-6. [Sunset Limited: Aug 23 - Aug 25](sunset.html) (Updated 8/25 at 11:00 pm Eastern)
-
-7. [Southwest Chief: Aug 25 - Aug 27](southwest.html) (Updated 8/27 at 9:00 pm Eastern)
-
-8. [Capitol Limited: Aug 27 - Aug 28](capitol.html) (Updated 8/28 at 11:30 pm Eastern)
+![](https://github.com/social-lorax/amtrak/blob/main/overall_list.png?raw=true)
 
 <br> 
 
